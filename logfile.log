@@ -1,0 +1,928 @@
+2024-01-03 17:10:34,396 :INFO :test_e2e :getting all the card titles
+2024-01-03 17:10:39,499 :INFO :test_e2e :iphone X
+2024-01-03 17:10:39,504 :INFO :test_e2e :Samsung Note 8
+2024-01-03 17:10:39,509 :INFO :test_e2e :Nokia Edge
+2024-01-03 17:10:39,513 :INFO :test_e2e :Blackberry
+2024-01-03 17:10:39,613 :INFO :test_e2e :Entering country name as India
+2024-01-03 17:10:44,804 :INFO :test_e2e :Text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-01-03 17:16:47,374 :INFO :test_e2e :getting all the card titles
+2024-01-03 17:16:52,396 :INFO :test_e2e :iphone X
+2024-01-03 17:16:52,402 :INFO :test_e2e :Samsung Note 8
+2024-01-03 17:16:52,406 :INFO :test_e2e :Nokia Edge
+2024-01-03 17:16:52,411 :INFO :test_e2e :Blackberry
+2024-01-03 17:16:52,515 :INFO :test_e2e :Entering country name as India
+2024-01-03 17:16:57,712 :INFO :test_e2e :Text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-01-03 17:17:03,921 :INFO :test_formSubmission :name isjay
+2024-01-03 17:17:03,971 :INFO :test_formSubmission :email isjay@yopmail.com
+2024-01-03 17:17:04,011 :INFO :test_formSubmission :password isjay@123
+2024-01-03 17:17:04,045 :INFO :test_formSubmission :click on checkbox
+2024-01-03 17:17:04,076 :INFO :test_formSubmission :gender isMale
+2024-01-03 17:17:04,102 :INFO :test_formSubmission :Click on submit button
+2024-01-03 17:17:04,152 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-03 17:17:04,250 :INFO :test_formSubmission :name ismamta
+2024-01-03 17:17:04,250 :INFO :test_formSubmission :name ismamta
+2024-01-03 17:17:04,280 :INFO :test_formSubmission :email ismamta@yopmail.com
+2024-01-03 17:17:04,280 :INFO :test_formSubmission :email ismamta@yopmail.com
+2024-01-03 17:17:04,317 :INFO :test_formSubmission :password ismamta@123
+2024-01-03 17:17:04,317 :INFO :test_formSubmission :password ismamta@123
+2024-01-03 17:17:04,349 :INFO :test_formSubmission :click on checkbox
+2024-01-03 17:17:04,349 :INFO :test_formSubmission :click on checkbox
+2024-01-03 17:17:04,373 :INFO :test_formSubmission :gender isFemale
+2024-01-03 17:17:04,373 :INFO :test_formSubmission :gender isFemale
+2024-01-03 17:17:04,412 :INFO :test_formSubmission :Click on submit button
+2024-01-03 17:17:04,412 :INFO :test_formSubmission :Click on submit button
+2024-01-03 17:17:04,447 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-03 17:17:04,447 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-03 18:22:22,767 :INFO :test_e2e :getting all the card titles
+2024-01-03 18:22:27,788 :INFO :test_e2e :iphone X
+2024-01-03 18:22:27,793 :INFO :test_e2e :Samsung Note 8
+2024-01-03 18:22:27,798 :INFO :test_e2e :Nokia Edge
+2024-01-03 18:22:27,802 :INFO :test_e2e :Blackberry
+2024-01-03 18:22:27,905 :INFO :test_e2e :Entering country name as India
+2024-01-03 18:22:33,052 :INFO :test_e2e :Text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-01-03 18:22:39,040 :INFO :test_formSubmission :name isjay
+2024-01-03 18:22:39,090 :INFO :test_formSubmission :email isjay@yopmail.com
+2024-01-03 18:22:39,130 :INFO :test_formSubmission :password isjay@123
+2024-01-03 18:22:39,162 :INFO :test_formSubmission :click on checkbox
+2024-01-03 18:22:39,194 :INFO :test_formSubmission :gender isMale
+2024-01-03 18:22:39,222 :INFO :test_formSubmission :Click on submit button
+2024-01-03 18:22:39,274 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-03 18:22:39,543 :INFO :test_formSubmission :name ismamta
+2024-01-03 18:22:39,543 :INFO :test_formSubmission :name ismamta
+2024-01-03 18:22:39,575 :INFO :test_formSubmission :email ismamta@yopmail.com
+2024-01-03 18:22:39,575 :INFO :test_formSubmission :email ismamta@yopmail.com
+2024-01-03 18:22:39,610 :INFO :test_formSubmission :password ismamta@123
+2024-01-03 18:22:39,610 :INFO :test_formSubmission :password ismamta@123
+2024-01-03 18:22:39,642 :INFO :test_formSubmission :click on checkbox
+2024-01-03 18:22:39,642 :INFO :test_formSubmission :click on checkbox
+2024-01-03 18:22:39,665 :INFO :test_formSubmission :gender isFemale
+2024-01-03 18:22:39,665 :INFO :test_formSubmission :gender isFemale
+2024-01-03 18:22:39,705 :INFO :test_formSubmission :Click on submit button
+2024-01-03 18:22:39,705 :INFO :test_formSubmission :Click on submit button
+2024-01-03 18:22:39,739 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-03 18:22:39,739 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-03 18:25:46,874 :INFO :test_e2e :getting all the card titles
+2024-01-03 18:25:51,898 :INFO :test_e2e :iphone X
+2024-01-03 18:25:51,904 :INFO :test_e2e :Samsung Note 8
+2024-01-03 18:25:51,909 :INFO :test_e2e :Nokia Edge
+2024-01-03 18:25:51,914 :INFO :test_e2e :Blackberry
+2024-01-03 18:25:52,018 :INFO :test_e2e :Entering country name as India
+2024-01-03 18:25:57,190 :INFO :test_e2e :Text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-01-03 18:27:14,808 :INFO :test_e2e :getting all the card titles
+2024-01-03 18:27:19,837 :INFO :test_e2e :iphone X
+2024-01-03 18:27:19,842 :INFO :test_e2e :Samsung Note 8
+2024-01-03 18:27:19,849 :INFO :test_e2e :Nokia Edge
+2024-01-03 18:27:19,854 :INFO :test_e2e :Blackberry
+2024-01-03 18:27:19,963 :INFO :test_e2e :Entering country name as India
+2024-01-03 18:27:25,116 :INFO :test_e2e :Text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-01-03 18:27:31,774 :INFO :test_formSubmission :name isjay
+2024-01-03 18:27:31,823 :INFO :test_formSubmission :email isjay@yopmail.com
+2024-01-03 18:27:31,861 :INFO :test_formSubmission :password isjay@123
+2024-01-03 18:27:31,895 :INFO :test_formSubmission :click on checkbox
+2024-01-03 18:27:31,926 :INFO :test_formSubmission :gender isMale
+2024-01-03 18:27:31,952 :INFO :test_formSubmission :Click on submit button
+2024-01-03 18:27:32,001 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-03 18:27:32,191 :INFO :test_formSubmission :name ismamta
+2024-01-03 18:27:32,191 :INFO :test_formSubmission :name ismamta
+2024-01-03 18:27:32,222 :INFO :test_formSubmission :email ismamta@yopmail.com
+2024-01-03 18:27:32,222 :INFO :test_formSubmission :email ismamta@yopmail.com
+2024-01-03 18:27:32,258 :INFO :test_formSubmission :password ismamta@123
+2024-01-03 18:27:32,258 :INFO :test_formSubmission :password ismamta@123
+2024-01-03 18:27:32,289 :INFO :test_formSubmission :click on checkbox
+2024-01-03 18:27:32,289 :INFO :test_formSubmission :click on checkbox
+2024-01-03 18:27:32,315 :INFO :test_formSubmission :gender isFemale
+2024-01-03 18:27:32,315 :INFO :test_formSubmission :gender isFemale
+2024-01-03 18:27:32,355 :INFO :test_formSubmission :Click on submit button
+2024-01-03 18:27:32,355 :INFO :test_formSubmission :Click on submit button
+2024-01-03 18:27:32,389 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-03 18:27:32,389 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-03 18:28:44,049 :INFO :test_e2e :getting all the card titles
+2024-01-03 18:28:49,079 :INFO :test_e2e :iphone X
+2024-01-03 18:28:49,086 :INFO :test_e2e :Samsung Note 8
+2024-01-03 18:28:49,092 :INFO :test_e2e :Nokia Edge
+2024-01-03 18:28:49,097 :INFO :test_e2e :Blackberry
+2024-01-03 18:28:49,197 :INFO :test_e2e :Entering country name as India
+2024-01-03 18:28:54,376 :INFO :test_e2e :Text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-01-03 18:29:41,796 :INFO :test_e2e :getting all the card titles
+2024-01-03 18:29:46,821 :INFO :test_e2e :iphone X
+2024-01-03 18:29:46,827 :INFO :test_e2e :Samsung Note 8
+2024-01-03 18:29:46,832 :INFO :test_e2e :Nokia Edge
+2024-01-03 18:29:46,838 :INFO :test_e2e :Blackberry
+2024-01-03 18:29:46,956 :INFO :test_e2e :Entering country name as India
+2024-01-03 18:29:52,132 :INFO :test_e2e :Text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-01-03 18:29:58,655 :INFO :test_formSubmission :name isjay
+2024-01-03 18:29:58,703 :INFO :test_formSubmission :email isjay@yopmail.com
+2024-01-03 18:29:58,742 :INFO :test_formSubmission :password isjay@123
+2024-01-03 18:29:58,775 :INFO :test_formSubmission :click on checkbox
+2024-01-03 18:29:58,808 :INFO :test_formSubmission :gender isMale
+2024-01-03 18:29:58,835 :INFO :test_formSubmission :Click on submit button
+2024-01-03 18:29:58,886 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-03 18:29:59,023 :INFO :test_formSubmission :name ismamta
+2024-01-03 18:29:59,023 :INFO :test_formSubmission :name ismamta
+2024-01-03 18:29:59,058 :INFO :test_formSubmission :email ismamta@yopmail.com
+2024-01-03 18:29:59,058 :INFO :test_formSubmission :email ismamta@yopmail.com
+2024-01-03 18:29:59,092 :INFO :test_formSubmission :password ismamta@123
+2024-01-03 18:29:59,092 :INFO :test_formSubmission :password ismamta@123
+2024-01-03 18:29:59,123 :INFO :test_formSubmission :click on checkbox
+2024-01-03 18:29:59,123 :INFO :test_formSubmission :click on checkbox
+2024-01-03 18:29:59,147 :INFO :test_formSubmission :gender isFemale
+2024-01-03 18:29:59,147 :INFO :test_formSubmission :gender isFemale
+2024-01-03 18:29:59,186 :INFO :test_formSubmission :Click on submit button
+2024-01-03 18:29:59,186 :INFO :test_formSubmission :Click on submit button
+2024-01-03 18:29:59,222 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-03 18:29:59,222 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 10:50:09,702 :INFO :test_e2e :getting all the card titles
+2024-01-04 10:50:14,724 :INFO :test_e2e :iphone X
+2024-01-04 10:50:14,729 :INFO :test_e2e :Samsung Note 8
+2024-01-04 10:50:14,734 :INFO :test_e2e :Nokia Edge
+2024-01-04 10:50:14,738 :INFO :test_e2e :Blackberry
+2024-01-04 10:50:14,839 :INFO :test_e2e :Entering country name as India
+2024-01-04 10:50:20,027 :INFO :test_e2e :Text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-01-04 10:50:27,209 :INFO :test_formSubmission :name isjay
+2024-01-04 10:50:27,258 :INFO :test_formSubmission :email isjay@yopmail.com
+2024-01-04 10:50:27,298 :INFO :test_formSubmission :password isjay@123
+2024-01-04 10:50:27,331 :INFO :test_formSubmission :click on checkbox
+2024-01-04 10:50:27,364 :INFO :test_formSubmission :gender isMale
+2024-01-04 10:50:27,391 :INFO :test_formSubmission :Click on submit button
+2024-01-04 10:50:27,441 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 10:50:27,556 :INFO :test_formSubmission :name ismamta
+2024-01-04 10:50:27,556 :INFO :test_formSubmission :name ismamta
+2024-01-04 10:50:27,589 :INFO :test_formSubmission :email ismamta@yopmail.com
+2024-01-04 10:50:27,589 :INFO :test_formSubmission :email ismamta@yopmail.com
+2024-01-04 10:50:27,624 :INFO :test_formSubmission :password ismamta@123
+2024-01-04 10:50:27,624 :INFO :test_formSubmission :password ismamta@123
+2024-01-04 10:50:27,655 :INFO :test_formSubmission :click on checkbox
+2024-01-04 10:50:27,655 :INFO :test_formSubmission :click on checkbox
+2024-01-04 10:50:27,681 :INFO :test_formSubmission :gender isFemale
+2024-01-04 10:50:27,681 :INFO :test_formSubmission :gender isFemale
+2024-01-04 10:50:27,722 :INFO :test_formSubmission :Click on submit button
+2024-01-04 10:50:27,722 :INFO :test_formSubmission :Click on submit button
+2024-01-04 10:50:27,757 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 10:50:27,757 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 10:57:55,368 :INFO :test_e2e :getting all the card titles
+2024-01-04 10:58:00,397 :INFO :test_e2e :iphone X
+2024-01-04 10:58:00,402 :INFO :test_e2e :Samsung Note 8
+2024-01-04 10:58:00,407 :INFO :test_e2e :Nokia Edge
+2024-01-04 10:58:00,412 :INFO :test_e2e :Blackberry
+2024-01-04 10:58:00,531 :INFO :test_e2e :Entering country name as India
+2024-01-04 10:58:05,723 :INFO :test_e2e :Text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-01-04 10:58:12,339 :INFO :test_formSubmission :name isjay
+2024-01-04 10:58:12,388 :INFO :test_formSubmission :email isjay@yopmail.com
+2024-01-04 10:58:12,490 :INFO :test_formSubmission :password isjay@123
+2024-01-04 10:58:12,522 :INFO :test_formSubmission :click on checkbox
+2024-01-04 10:58:12,555 :INFO :test_formSubmission :gender isMale
+2024-01-04 10:58:12,660 :INFO :test_formSubmission :Click on submit button
+2024-01-04 10:58:12,772 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 10:58:12,860 :INFO :test_formSubmission :name ismamta
+2024-01-04 10:58:12,860 :INFO :test_formSubmission :name ismamta
+2024-01-04 10:58:12,891 :INFO :test_formSubmission :email ismamta@yopmail.com
+2024-01-04 10:58:12,891 :INFO :test_formSubmission :email ismamta@yopmail.com
+2024-01-04 10:58:12,927 :INFO :test_formSubmission :password ismamta@123
+2024-01-04 10:58:12,927 :INFO :test_formSubmission :password ismamta@123
+2024-01-04 10:58:12,969 :INFO :test_formSubmission :click on checkbox
+2024-01-04 10:58:12,969 :INFO :test_formSubmission :click on checkbox
+2024-01-04 10:58:12,995 :INFO :test_formSubmission :gender isFemale
+2024-01-04 10:58:12,995 :INFO :test_formSubmission :gender isFemale
+2024-01-04 10:58:13,034 :INFO :test_formSubmission :Click on submit button
+2024-01-04 10:58:13,034 :INFO :test_formSubmission :Click on submit button
+2024-01-04 10:58:13,069 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 10:58:13,069 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 11:08:49,965 :INFO :test_e2e :getting all the card titles
+2024-01-04 11:08:54,996 :INFO :test_e2e :iphone X
+2024-01-04 11:08:55,001 :INFO :test_e2e :Samsung Note 8
+2024-01-04 11:08:55,006 :INFO :test_e2e :Nokia Edge
+2024-01-04 11:08:55,010 :INFO :test_e2e :Blackberry
+2024-01-04 11:08:55,114 :INFO :test_e2e :Entering country name as India
+2024-01-04 11:09:00,286 :INFO :test_e2e :Text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-01-04 11:11:21,862 :INFO :test_e2e :getting all the card titles
+2024-01-04 11:11:26,887 :INFO :test_e2e :iphone X
+2024-01-04 11:11:26,892 :INFO :test_e2e :Samsung Note 8
+2024-01-04 11:11:26,897 :INFO :test_e2e :Nokia Edge
+2024-01-04 11:11:26,902 :INFO :test_e2e :Blackberry
+2024-01-04 11:11:27,006 :INFO :test_e2e :Entering country name as India
+2024-01-04 11:11:32,168 :INFO :test_e2e :Text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-01-04 11:11:38,673 :INFO :test_formSubmission :name isjay
+2024-01-04 11:11:38,722 :INFO :test_formSubmission :email isjay@yopmail.com
+2024-01-04 11:11:38,763 :INFO :test_formSubmission :password isjay@123
+2024-01-04 11:11:38,796 :INFO :test_formSubmission :click on checkbox
+2024-01-04 11:11:38,827 :INFO :test_formSubmission :gender isMale
+2024-01-04 11:11:38,854 :INFO :test_formSubmission :Click on submit button
+2024-01-04 11:11:38,903 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 11:11:38,988 :INFO :test_formSubmission :name ismamta
+2024-01-04 11:11:38,988 :INFO :test_formSubmission :name ismamta
+2024-01-04 11:11:39,020 :INFO :test_formSubmission :email ismamta@yopmail.com
+2024-01-04 11:11:39,020 :INFO :test_formSubmission :email ismamta@yopmail.com
+2024-01-04 11:11:39,056 :INFO :test_formSubmission :password ismamta@123
+2024-01-04 11:11:39,056 :INFO :test_formSubmission :password ismamta@123
+2024-01-04 11:11:39,089 :INFO :test_formSubmission :click on checkbox
+2024-01-04 11:11:39,089 :INFO :test_formSubmission :click on checkbox
+2024-01-04 11:11:39,114 :INFO :test_formSubmission :gender isFemale
+2024-01-04 11:11:39,114 :INFO :test_formSubmission :gender isFemale
+2024-01-04 11:11:39,156 :INFO :test_formSubmission :Click on submit button
+2024-01-04 11:11:39,156 :INFO :test_formSubmission :Click on submit button
+2024-01-04 11:11:39,190 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 11:11:39,190 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 11:15:30,840 :INFO :test_e2e :getting all the card titles
+2024-01-04 11:15:35,867 :INFO :test_e2e :iphone X
+2024-01-04 11:15:35,873 :INFO :test_e2e :Samsung Note 8
+2024-01-04 11:15:35,878 :INFO :test_e2e :Nokia Edge
+2024-01-04 11:15:35,882 :INFO :test_e2e :Blackberry
+2024-01-04 11:15:35,988 :INFO :test_e2e :Entering country name as India
+2024-01-04 11:15:41,167 :INFO :test_e2e :Text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-01-04 11:15:48,103 :INFO :test_formSubmission :name isjay
+2024-01-04 11:15:48,153 :INFO :test_formSubmission :email isjay@yopmail.com
+2024-01-04 11:15:48,193 :INFO :test_formSubmission :password isjay@123
+2024-01-04 11:15:48,226 :INFO :test_formSubmission :click on checkbox
+2024-01-04 11:15:48,261 :INFO :test_formSubmission :gender isMale
+2024-01-04 11:15:48,288 :INFO :test_formSubmission :Click on submit button
+2024-01-04 11:15:48,339 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 11:15:48,423 :INFO :test_formSubmission :name ismamta
+2024-01-04 11:15:48,423 :INFO :test_formSubmission :name ismamta
+2024-01-04 11:15:48,455 :INFO :test_formSubmission :email ismamta@yopmail.com
+2024-01-04 11:15:48,455 :INFO :test_formSubmission :email ismamta@yopmail.com
+2024-01-04 11:15:48,492 :INFO :test_formSubmission :password ismamta@123
+2024-01-04 11:15:48,492 :INFO :test_formSubmission :password ismamta@123
+2024-01-04 11:15:48,524 :INFO :test_formSubmission :click on checkbox
+2024-01-04 11:15:48,524 :INFO :test_formSubmission :click on checkbox
+2024-01-04 11:15:48,550 :INFO :test_formSubmission :gender isFemale
+2024-01-04 11:15:48,550 :INFO :test_formSubmission :gender isFemale
+2024-01-04 11:15:48,590 :INFO :test_formSubmission :Click on submit button
+2024-01-04 11:15:48,590 :INFO :test_formSubmission :Click on submit button
+2024-01-04 11:15:48,625 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 11:15:48,625 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 12:06:19,641 :INFO :test_e2e :getting all the card titles
+2024-01-04 12:06:24,650 :INFO :test_e2e :iphone X
+2024-01-04 12:06:24,653 :INFO :test_e2e :Samsung Note 8
+2024-01-04 12:06:24,655 :INFO :test_e2e :Nokia Edge
+2024-01-04 12:06:24,658 :INFO :test_e2e :Blackberry
+2024-01-04 12:06:25,324 :INFO :test_e2e :Entering country name as India
+2024-01-04 12:06:31,076 :INFO :test_e2e :Text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-01-04 12:06:42,848 :INFO :test_formSubmission :name isjay
+2024-01-04 12:06:42,904 :INFO :test_formSubmission :email isjay@yopmail.com
+2024-01-04 12:06:42,918 :INFO :test_formSubmission :password isjay@123
+2024-01-04 12:06:42,926 :INFO :test_formSubmission :click on checkbox
+2024-01-04 12:06:43,137 :INFO :test_formSubmission :gender isMale
+2024-01-04 12:06:43,145 :INFO :test_formSubmission :Click on submit button
+2024-01-04 12:06:43,400 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 12:06:44,316 :INFO :test_formSubmission :name ismamta
+2024-01-04 12:06:44,316 :INFO :test_formSubmission :name ismamta
+2024-01-04 12:06:44,331 :INFO :test_formSubmission :email ismamta@yopmail.com
+2024-01-04 12:06:44,331 :INFO :test_formSubmission :email ismamta@yopmail.com
+2024-01-04 12:06:44,345 :INFO :test_formSubmission :password ismamta@123
+2024-01-04 12:06:44,345 :INFO :test_formSubmission :password ismamta@123
+2024-01-04 12:06:44,353 :INFO :test_formSubmission :click on checkbox
+2024-01-04 12:06:44,353 :INFO :test_formSubmission :click on checkbox
+2024-01-04 12:06:44,563 :INFO :test_formSubmission :gender isFemale
+2024-01-04 12:06:44,563 :INFO :test_formSubmission :gender isFemale
+2024-01-04 12:06:44,799 :INFO :test_formSubmission :Click on submit button
+2024-01-04 12:06:44,799 :INFO :test_formSubmission :Click on submit button
+2024-01-04 12:06:45,054 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 12:06:45,054 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 12:12:22,420 :INFO :test_e2e :getting all the card titles
+2024-01-04 12:12:27,444 :INFO :test_e2e :iphone X
+2024-01-04 12:12:27,449 :INFO :test_e2e :Samsung Note 8
+2024-01-04 12:12:27,453 :INFO :test_e2e :Nokia Edge
+2024-01-04 12:12:27,456 :INFO :test_e2e :Blackberry
+2024-01-04 12:12:27,557 :INFO :test_e2e :Entering country name as India
+2024-01-04 12:12:32,728 :INFO :test_e2e :Text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-01-04 12:12:39,629 :INFO :test_formSubmission :name isjay
+2024-01-04 12:12:39,681 :INFO :test_formSubmission :email isjay@yopmail.com
+2024-01-04 12:12:39,720 :INFO :test_formSubmission :password isjay@123
+2024-01-04 12:12:39,753 :INFO :test_formSubmission :click on checkbox
+2024-01-04 12:12:39,786 :INFO :test_formSubmission :gender isMale
+2024-01-04 12:12:39,813 :INFO :test_formSubmission :Click on submit button
+2024-01-04 12:12:39,864 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 12:12:39,945 :INFO :test_formSubmission :name ismamta
+2024-01-04 12:12:39,945 :INFO :test_formSubmission :name ismamta
+2024-01-04 12:12:39,981 :INFO :test_formSubmission :email ismamta@yopmail.com
+2024-01-04 12:12:39,981 :INFO :test_formSubmission :email ismamta@yopmail.com
+2024-01-04 12:12:40,018 :INFO :test_formSubmission :password ismamta@123
+2024-01-04 12:12:40,018 :INFO :test_formSubmission :password ismamta@123
+2024-01-04 12:12:40,049 :INFO :test_formSubmission :click on checkbox
+2024-01-04 12:12:40,049 :INFO :test_formSubmission :click on checkbox
+2024-01-04 12:12:40,074 :INFO :test_formSubmission :gender isFemale
+2024-01-04 12:12:40,074 :INFO :test_formSubmission :gender isFemale
+2024-01-04 12:12:40,113 :INFO :test_formSubmission :Click on submit button
+2024-01-04 12:12:40,113 :INFO :test_formSubmission :Click on submit button
+2024-01-04 12:12:40,151 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 12:12:40,151 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 12:17:42,095 :INFO :test_e2e :getting all the card titles
+2024-01-04 12:17:47,119 :INFO :test_e2e :iphone X
+2024-01-04 12:17:47,124 :INFO :test_e2e :Samsung Note 8
+2024-01-04 12:17:47,129 :INFO :test_e2e :Nokia Edge
+2024-01-04 12:17:47,133 :INFO :test_e2e :Blackberry
+2024-01-04 12:17:47,231 :INFO :test_e2e :Entering country name as India
+2024-01-04 12:17:52,424 :INFO :test_e2e :Text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-01-04 12:17:58,626 :INFO :test_formSubmission :name isjay
+2024-01-04 12:17:58,676 :INFO :test_formSubmission :email isjay@yopmail.com
+2024-01-04 12:17:58,716 :INFO :test_formSubmission :password isjay@123
+2024-01-04 12:17:58,751 :INFO :test_formSubmission :click on checkbox
+2024-01-04 12:17:58,784 :INFO :test_formSubmission :gender isMale
+2024-01-04 12:17:58,811 :INFO :test_formSubmission :Click on submit button
+2024-01-04 12:17:58,862 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 12:17:58,947 :INFO :test_formSubmission :name ismamta
+2024-01-04 12:17:58,947 :INFO :test_formSubmission :name ismamta
+2024-01-04 12:17:58,980 :INFO :test_formSubmission :email ismamta@yopmail.com
+2024-01-04 12:17:58,980 :INFO :test_formSubmission :email ismamta@yopmail.com
+2024-01-04 12:17:59,016 :INFO :test_formSubmission :password ismamta@123
+2024-01-04 12:17:59,016 :INFO :test_formSubmission :password ismamta@123
+2024-01-04 12:17:59,047 :INFO :test_formSubmission :click on checkbox
+2024-01-04 12:17:59,047 :INFO :test_formSubmission :click on checkbox
+2024-01-04 12:17:59,073 :INFO :test_formSubmission :gender isFemale
+2024-01-04 12:17:59,073 :INFO :test_formSubmission :gender isFemale
+2024-01-04 12:17:59,113 :INFO :test_formSubmission :Click on submit button
+2024-01-04 12:17:59,113 :INFO :test_formSubmission :Click on submit button
+2024-01-04 12:17:59,149 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 12:17:59,149 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 12:29:37,768 :INFO :test_e2e :getting all the card titles
+2024-01-04 12:29:42,779 :INFO :test_e2e :iphone X
+2024-01-04 12:29:42,783 :INFO :test_e2e :Samsung Note 8
+2024-01-04 12:29:42,785 :INFO :test_e2e :Nokia Edge
+2024-01-04 12:29:42,788 :INFO :test_e2e :Blackberry
+2024-01-04 12:29:43,467 :INFO :test_e2e :Entering country name as India
+2024-01-04 12:29:49,159 :INFO :test_e2e :Text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-01-04 12:30:00,542 :INFO :test_formSubmission :name isjay
+2024-01-04 12:30:00,599 :INFO :test_formSubmission :email isjay@yopmail.com
+2024-01-04 12:30:00,612 :INFO :test_formSubmission :password isjay@123
+2024-01-04 12:30:00,622 :INFO :test_formSubmission :click on checkbox
+2024-01-04 12:30:00,839 :INFO :test_formSubmission :gender isMale
+2024-01-04 12:30:00,847 :INFO :test_formSubmission :Click on submit button
+2024-01-04 12:30:01,100 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 12:30:01,795 :INFO :test_formSubmission :name ismamta
+2024-01-04 12:30:01,795 :INFO :test_formSubmission :name ismamta
+2024-01-04 12:30:01,811 :INFO :test_formSubmission :email ismamta@yopmail.com
+2024-01-04 12:30:01,811 :INFO :test_formSubmission :email ismamta@yopmail.com
+2024-01-04 12:30:01,825 :INFO :test_formSubmission :password ismamta@123
+2024-01-04 12:30:01,825 :INFO :test_formSubmission :password ismamta@123
+2024-01-04 12:30:01,831 :INFO :test_formSubmission :click on checkbox
+2024-01-04 12:30:01,831 :INFO :test_formSubmission :click on checkbox
+2024-01-04 12:30:02,055 :INFO :test_formSubmission :gender isFemale
+2024-01-04 12:30:02,055 :INFO :test_formSubmission :gender isFemale
+2024-01-04 12:30:02,305 :INFO :test_formSubmission :Click on submit button
+2024-01-04 12:30:02,305 :INFO :test_formSubmission :Click on submit button
+2024-01-04 12:30:02,526 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 12:30:02,526 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 12:31:49,916 :INFO :test_e2e :getting all the card titles
+2024-01-04 12:31:55,102 :INFO :test_e2e :iphone X
+2024-01-04 12:31:55,106 :INFO :test_e2e :Samsung Note 8
+2024-01-04 12:31:55,108 :INFO :test_e2e :Nokia Edge
+2024-01-04 12:31:55,111 :INFO :test_e2e :Blackberry
+2024-01-04 12:31:55,801 :INFO :test_e2e :Entering country name as India
+2024-01-04 12:32:01,538 :INFO :test_e2e :Text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-01-04 12:32:13,384 :INFO :test_formSubmission :name isjay
+2024-01-04 12:32:13,437 :INFO :test_formSubmission :email isjay@yopmail.com
+2024-01-04 12:32:13,451 :INFO :test_formSubmission :password isjay@123
+2024-01-04 12:32:13,460 :INFO :test_formSubmission :click on checkbox
+2024-01-04 12:32:13,684 :INFO :test_formSubmission :gender isMale
+2024-01-04 12:32:13,691 :INFO :test_formSubmission :Click on submit button
+2024-01-04 12:32:13,945 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 12:32:14,788 :INFO :test_formSubmission :name ismamta
+2024-01-04 12:32:14,788 :INFO :test_formSubmission :name ismamta
+2024-01-04 12:32:14,804 :INFO :test_formSubmission :email ismamta@yopmail.com
+2024-01-04 12:32:14,804 :INFO :test_formSubmission :email ismamta@yopmail.com
+2024-01-04 12:32:14,817 :INFO :test_formSubmission :password ismamta@123
+2024-01-04 12:32:14,817 :INFO :test_formSubmission :password ismamta@123
+2024-01-04 12:32:14,824 :INFO :test_formSubmission :click on checkbox
+2024-01-04 12:32:14,824 :INFO :test_formSubmission :click on checkbox
+2024-01-04 12:32:15,036 :INFO :test_formSubmission :gender isFemale
+2024-01-04 12:32:15,036 :INFO :test_formSubmission :gender isFemale
+2024-01-04 12:32:15,266 :INFO :test_formSubmission :Click on submit button
+2024-01-04 12:32:15,266 :INFO :test_formSubmission :Click on submit button
+2024-01-04 12:32:15,503 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 12:32:15,503 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 12:34:16,620 :INFO :test_e2e :getting all the card titles
+2024-01-04 12:34:21,632 :INFO :test_e2e :iphone X
+2024-01-04 12:34:21,635 :INFO :test_e2e :Samsung Note 8
+2024-01-04 12:34:21,638 :INFO :test_e2e :Nokia Edge
+2024-01-04 12:34:21,642 :INFO :test_e2e :Blackberry
+2024-01-04 12:34:22,339 :INFO :test_e2e :Entering country name as India
+2024-01-04 12:34:28,047 :INFO :test_e2e :Text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-01-04 12:34:39,143 :INFO :test_formSubmission :name isjay
+2024-01-04 12:34:39,200 :INFO :test_formSubmission :email isjay@yopmail.com
+2024-01-04 12:34:39,213 :INFO :test_formSubmission :password isjay@123
+2024-01-04 12:34:39,221 :INFO :test_formSubmission :click on checkbox
+2024-01-04 12:34:39,444 :INFO :test_formSubmission :gender isMale
+2024-01-04 12:34:39,477 :INFO :test_formSubmission :Click on submit button
+2024-01-04 12:34:39,731 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 12:34:40,232 :INFO :test_formSubmission :name ismamta
+2024-01-04 12:34:40,232 :INFO :test_formSubmission :name ismamta
+2024-01-04 12:34:40,247 :INFO :test_formSubmission :email ismamta@yopmail.com
+2024-01-04 12:34:40,247 :INFO :test_formSubmission :email ismamta@yopmail.com
+2024-01-04 12:34:40,260 :INFO :test_formSubmission :password ismamta@123
+2024-01-04 12:34:40,260 :INFO :test_formSubmission :password ismamta@123
+2024-01-04 12:34:40,268 :INFO :test_formSubmission :click on checkbox
+2024-01-04 12:34:40,268 :INFO :test_formSubmission :click on checkbox
+2024-01-04 12:34:40,480 :INFO :test_formSubmission :gender isFemale
+2024-01-04 12:34:40,480 :INFO :test_formSubmission :gender isFemale
+2024-01-04 12:34:40,726 :INFO :test_formSubmission :Click on submit button
+2024-01-04 12:34:40,726 :INFO :test_formSubmission :Click on submit button
+2024-01-04 12:34:40,953 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 12:34:40,953 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 12:36:40,733 :INFO :test_e2e :getting all the card titles
+2024-01-04 12:36:45,744 :INFO :test_e2e :iphone X
+2024-01-04 12:36:45,748 :INFO :test_e2e :Samsung Note 8
+2024-01-04 12:36:45,751 :INFO :test_e2e :Nokia Edge
+2024-01-04 12:36:45,755 :INFO :test_e2e :Blackberry
+2024-01-04 12:36:46,435 :INFO :test_e2e :Entering country name as India
+2024-01-04 12:36:52,168 :INFO :test_e2e :Text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-01-04 12:37:04,860 :INFO :test_formSubmission :name isjay
+2024-01-04 12:37:04,913 :INFO :test_formSubmission :email isjay@yopmail.com
+2024-01-04 12:37:04,929 :INFO :test_formSubmission :password isjay@123
+2024-01-04 12:37:04,941 :INFO :test_formSubmission :click on checkbox
+2024-01-04 12:37:05,165 :INFO :test_formSubmission :gender isMale
+2024-01-04 12:37:05,175 :INFO :test_formSubmission :Click on submit button
+2024-01-04 12:37:05,418 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 12:37:06,035 :INFO :test_formSubmission :name ismamta
+2024-01-04 12:37:06,035 :INFO :test_formSubmission :name ismamta
+2024-01-04 12:37:06,050 :INFO :test_formSubmission :email ismamta@yopmail.com
+2024-01-04 12:37:06,050 :INFO :test_formSubmission :email ismamta@yopmail.com
+2024-01-04 12:37:06,064 :INFO :test_formSubmission :password ismamta@123
+2024-01-04 12:37:06,064 :INFO :test_formSubmission :password ismamta@123
+2024-01-04 12:37:06,074 :INFO :test_formSubmission :click on checkbox
+2024-01-04 12:37:06,074 :INFO :test_formSubmission :click on checkbox
+2024-01-04 12:37:06,293 :INFO :test_formSubmission :gender isFemale
+2024-01-04 12:37:06,293 :INFO :test_formSubmission :gender isFemale
+2024-01-04 12:37:06,529 :INFO :test_formSubmission :Click on submit button
+2024-01-04 12:37:06,529 :INFO :test_formSubmission :Click on submit button
+2024-01-04 12:37:06,746 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 12:37:06,746 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 12:37:19,256 :INFO :test_e2e :getting all the card titles
+2024-01-04 12:37:24,279 :INFO :test_e2e :iphone X
+2024-01-04 12:37:24,284 :INFO :test_e2e :Samsung Note 8
+2024-01-04 12:37:24,287 :INFO :test_e2e :Nokia Edge
+2024-01-04 12:37:24,291 :INFO :test_e2e :Blackberry
+2024-01-04 12:37:24,388 :INFO :test_e2e :Entering country name as India
+2024-01-04 12:37:29,624 :INFO :test_e2e :Text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-01-04 12:37:36,071 :INFO :test_formSubmission :name isjay
+2024-01-04 12:37:36,117 :INFO :test_formSubmission :email isjay@yopmail.com
+2024-01-04 12:37:36,157 :INFO :test_formSubmission :password isjay@123
+2024-01-04 12:37:36,190 :INFO :test_formSubmission :click on checkbox
+2024-01-04 12:37:36,222 :INFO :test_formSubmission :gender isMale
+2024-01-04 12:37:36,248 :INFO :test_formSubmission :Click on submit button
+2024-01-04 12:37:36,298 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 12:37:36,380 :INFO :test_formSubmission :name ismamta
+2024-01-04 12:37:36,380 :INFO :test_formSubmission :name ismamta
+2024-01-04 12:37:36,413 :INFO :test_formSubmission :email ismamta@yopmail.com
+2024-01-04 12:37:36,413 :INFO :test_formSubmission :email ismamta@yopmail.com
+2024-01-04 12:37:36,448 :INFO :test_formSubmission :password ismamta@123
+2024-01-04 12:37:36,448 :INFO :test_formSubmission :password ismamta@123
+2024-01-04 12:37:36,478 :INFO :test_formSubmission :click on checkbox
+2024-01-04 12:37:36,478 :INFO :test_formSubmission :click on checkbox
+2024-01-04 12:37:36,502 :INFO :test_formSubmission :gender isFemale
+2024-01-04 12:37:36,502 :INFO :test_formSubmission :gender isFemale
+2024-01-04 12:37:36,540 :INFO :test_formSubmission :Click on submit button
+2024-01-04 12:37:36,540 :INFO :test_formSubmission :Click on submit button
+2024-01-04 12:37:36,574 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 12:37:36,574 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 12:43:32,878 :INFO :test_e2e :getting all the card titles
+2024-01-04 12:43:37,899 :INFO :test_e2e :iphone X
+2024-01-04 12:43:37,905 :INFO :test_e2e :Samsung Note 8
+2024-01-04 12:43:37,910 :INFO :test_e2e :Nokia Edge
+2024-01-04 12:43:37,915 :INFO :test_e2e :Blackberry
+2024-01-04 12:43:38,015 :INFO :test_e2e :Entering country name as India
+2024-01-04 12:43:43,214 :INFO :test_e2e :Text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-01-04 12:43:49,765 :INFO :test_formSubmission :name isjay
+2024-01-04 12:43:49,815 :INFO :test_formSubmission :email isjay@yopmail.com
+2024-01-04 12:43:49,853 :INFO :test_formSubmission :password isjay@123
+2024-01-04 12:43:49,885 :INFO :test_formSubmission :click on checkbox
+2024-01-04 12:43:49,917 :INFO :test_formSubmission :gender isMale
+2024-01-04 12:43:49,944 :INFO :test_formSubmission :Click on submit button
+2024-01-04 12:43:49,996 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 12:43:50,083 :INFO :test_formSubmission :name ismamta
+2024-01-04 12:43:50,083 :INFO :test_formSubmission :name ismamta
+2024-01-04 12:43:50,115 :INFO :test_formSubmission :email ismamta@yopmail.com
+2024-01-04 12:43:50,115 :INFO :test_formSubmission :email ismamta@yopmail.com
+2024-01-04 12:43:50,149 :INFO :test_formSubmission :password ismamta@123
+2024-01-04 12:43:50,149 :INFO :test_formSubmission :password ismamta@123
+2024-01-04 12:43:50,179 :INFO :test_formSubmission :click on checkbox
+2024-01-04 12:43:50,179 :INFO :test_formSubmission :click on checkbox
+2024-01-04 12:43:50,203 :INFO :test_formSubmission :gender isFemale
+2024-01-04 12:43:50,203 :INFO :test_formSubmission :gender isFemale
+2024-01-04 12:43:50,243 :INFO :test_formSubmission :Click on submit button
+2024-01-04 12:43:50,243 :INFO :test_formSubmission :Click on submit button
+2024-01-04 12:43:50,278 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 12:43:50,278 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 12:46:42,005 :INFO :test_e2e :getting all the card titles
+2024-01-04 12:46:47,026 :INFO :test_e2e :iphone X
+2024-01-04 12:46:47,031 :INFO :test_e2e :Samsung Note 8
+2024-01-04 12:46:47,036 :INFO :test_e2e :Nokia Edge
+2024-01-04 12:46:47,041 :INFO :test_e2e :Blackberry
+2024-01-04 12:46:47,146 :INFO :test_e2e :Entering country name as India
+2024-01-04 12:46:52,305 :INFO :test_e2e :Text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-01-04 12:46:59,226 :INFO :test_formSubmission :name isjay
+2024-01-04 12:46:59,275 :INFO :test_formSubmission :email isjay@yopmail.com
+2024-01-04 12:46:59,316 :INFO :test_formSubmission :password isjay@123
+2024-01-04 12:46:59,350 :INFO :test_formSubmission :click on checkbox
+2024-01-04 12:46:59,382 :INFO :test_formSubmission :gender isMale
+2024-01-04 12:46:59,409 :INFO :test_formSubmission :Click on submit button
+2024-01-04 12:46:59,460 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 12:46:59,693 :INFO :test_formSubmission :name ismamta
+2024-01-04 12:46:59,693 :INFO :test_formSubmission :name ismamta
+2024-01-04 12:46:59,725 :INFO :test_formSubmission :email ismamta@yopmail.com
+2024-01-04 12:46:59,725 :INFO :test_formSubmission :email ismamta@yopmail.com
+2024-01-04 12:46:59,760 :INFO :test_formSubmission :password ismamta@123
+2024-01-04 12:46:59,760 :INFO :test_formSubmission :password ismamta@123
+2024-01-04 12:46:59,792 :INFO :test_formSubmission :click on checkbox
+2024-01-04 12:46:59,792 :INFO :test_formSubmission :click on checkbox
+2024-01-04 12:46:59,818 :INFO :test_formSubmission :gender isFemale
+2024-01-04 12:46:59,818 :INFO :test_formSubmission :gender isFemale
+2024-01-04 12:46:59,857 :INFO :test_formSubmission :Click on submit button
+2024-01-04 12:46:59,857 :INFO :test_formSubmission :Click on submit button
+2024-01-04 12:46:59,892 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 12:46:59,892 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 12:48:19,504 :INFO :test_e2e :getting all the card titles
+2024-01-04 12:48:24,528 :INFO :test_e2e :iphone X
+2024-01-04 12:48:24,533 :INFO :test_e2e :Samsung Note 8
+2024-01-04 12:48:24,537 :INFO :test_e2e :Nokia Edge
+2024-01-04 12:48:24,542 :INFO :test_e2e :Blackberry
+2024-01-04 12:48:24,651 :INFO :test_e2e :Entering country name as India
+2024-01-04 12:48:29,827 :INFO :test_e2e :Text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-01-04 12:48:37,766 :INFO :test_formSubmission :name isjay
+2024-01-04 12:48:37,817 :INFO :test_formSubmission :email isjay@yopmail.com
+2024-01-04 12:48:37,855 :INFO :test_formSubmission :password isjay@123
+2024-01-04 12:48:37,888 :INFO :test_formSubmission :click on checkbox
+2024-01-04 12:48:37,921 :INFO :test_formSubmission :gender isMale
+2024-01-04 12:48:37,947 :INFO :test_formSubmission :Click on submit button
+2024-01-04 12:48:37,999 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 12:48:38,085 :INFO :test_formSubmission :name ismamta
+2024-01-04 12:48:38,085 :INFO :test_formSubmission :name ismamta
+2024-01-04 12:48:38,119 :INFO :test_formSubmission :email ismamta@yopmail.com
+2024-01-04 12:48:38,119 :INFO :test_formSubmission :email ismamta@yopmail.com
+2024-01-04 12:48:38,154 :INFO :test_formSubmission :password ismamta@123
+2024-01-04 12:48:38,154 :INFO :test_formSubmission :password ismamta@123
+2024-01-04 12:48:38,185 :INFO :test_formSubmission :click on checkbox
+2024-01-04 12:48:38,185 :INFO :test_formSubmission :click on checkbox
+2024-01-04 12:48:38,210 :INFO :test_formSubmission :gender isFemale
+2024-01-04 12:48:38,210 :INFO :test_formSubmission :gender isFemale
+2024-01-04 12:48:38,250 :INFO :test_formSubmission :Click on submit button
+2024-01-04 12:48:38,250 :INFO :test_formSubmission :Click on submit button
+2024-01-04 12:48:38,286 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 12:48:38,286 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 12:50:19,040 :INFO :test_e2e :getting all the card titles
+2024-01-04 12:50:24,060 :INFO :test_e2e :iphone X
+2024-01-04 12:50:24,064 :INFO :test_e2e :Samsung Note 8
+2024-01-04 12:50:24,068 :INFO :test_e2e :Nokia Edge
+2024-01-04 12:50:24,073 :INFO :test_e2e :Blackberry
+2024-01-04 12:50:24,174 :INFO :test_e2e :Entering country name as India
+2024-01-04 12:50:29,340 :INFO :test_e2e :Text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-01-04 12:50:35,903 :INFO :test_formSubmission :name isjay
+2024-01-04 12:50:35,953 :INFO :test_formSubmission :email isjay@yopmail.com
+2024-01-04 12:50:35,992 :INFO :test_formSubmission :password isjay@123
+2024-01-04 12:50:36,027 :INFO :test_formSubmission :click on checkbox
+2024-01-04 12:50:36,060 :INFO :test_formSubmission :gender isMale
+2024-01-04 12:50:36,087 :INFO :test_formSubmission :Click on submit button
+2024-01-04 12:50:36,138 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 12:55:36,323 :INFO :test_formSubmission :name ismamta
+2024-01-04 12:55:36,323 :INFO :test_formSubmission :name ismamta
+2024-01-04 12:55:36,357 :INFO :test_formSubmission :email ismamta@yopmail.com
+2024-01-04 12:55:36,357 :INFO :test_formSubmission :email ismamta@yopmail.com
+2024-01-04 12:55:36,392 :INFO :test_formSubmission :password ismamta@123
+2024-01-04 12:55:36,392 :INFO :test_formSubmission :password ismamta@123
+2024-01-04 12:55:36,423 :INFO :test_formSubmission :click on checkbox
+2024-01-04 12:55:36,423 :INFO :test_formSubmission :click on checkbox
+2024-01-04 12:55:36,447 :INFO :test_formSubmission :gender isFemale
+2024-01-04 12:55:36,447 :INFO :test_formSubmission :gender isFemale
+2024-01-04 12:55:36,486 :INFO :test_formSubmission :Click on submit button
+2024-01-04 12:55:36,486 :INFO :test_formSubmission :Click on submit button
+2024-01-04 12:55:36,520 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 12:55:36,520 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 12:55:54,786 :INFO :test_e2e :getting all the card titles
+2024-01-04 12:55:59,807 :INFO :test_e2e :iphone X
+2024-01-04 12:55:59,812 :INFO :test_e2e :Samsung Note 8
+2024-01-04 12:55:59,817 :INFO :test_e2e :Nokia Edge
+2024-01-04 12:55:59,822 :INFO :test_e2e :Blackberry
+2024-01-04 12:55:59,926 :INFO :test_e2e :Entering country name as India
+2024-01-04 12:56:05,123 :INFO :test_e2e :Text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-01-04 12:56:11,548 :INFO :test_formSubmission :name isjay
+2024-01-04 12:56:11,598 :INFO :test_formSubmission :email isjay@yopmail.com
+2024-01-04 12:56:11,637 :INFO :test_formSubmission :password isjay@123
+2024-01-04 12:56:11,670 :INFO :test_formSubmission :click on checkbox
+2024-01-04 12:56:11,702 :INFO :test_formSubmission :gender isMale
+2024-01-04 12:56:11,728 :INFO :test_formSubmission :Click on submit button
+2024-01-04 12:56:11,778 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 12:56:11,869 :INFO :test_formSubmission :name ismamta
+2024-01-04 12:56:11,869 :INFO :test_formSubmission :name ismamta
+2024-01-04 12:56:11,904 :INFO :test_formSubmission :email ismamta@yopmail.com
+2024-01-04 12:56:11,904 :INFO :test_formSubmission :email ismamta@yopmail.com
+2024-01-04 12:56:11,944 :INFO :test_formSubmission :password ismamta@123
+2024-01-04 12:56:11,944 :INFO :test_formSubmission :password ismamta@123
+2024-01-04 12:56:11,978 :INFO :test_formSubmission :click on checkbox
+2024-01-04 12:56:11,978 :INFO :test_formSubmission :click on checkbox
+2024-01-04 12:56:12,007 :INFO :test_formSubmission :gender isFemale
+2024-01-04 12:56:12,007 :INFO :test_formSubmission :gender isFemale
+2024-01-04 12:56:12,050 :INFO :test_formSubmission :Click on submit button
+2024-01-04 12:56:12,050 :INFO :test_formSubmission :Click on submit button
+2024-01-04 12:56:12,088 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 12:56:12,088 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 14:42:38,288 :INFO :test_e2e :getting all the card titles
+2024-01-04 14:42:43,468 :INFO :test_e2e :iphone X
+2024-01-04 14:42:43,472 :INFO :test_e2e :Samsung Note 8
+2024-01-04 14:42:43,475 :INFO :test_e2e :Nokia Edge
+2024-01-04 14:42:43,477 :INFO :test_e2e :Blackberry
+2024-01-04 14:42:44,132 :INFO :test_e2e :Entering country name as India
+2024-01-04 14:42:49,819 :INFO :test_e2e :Text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-01-04 14:43:01,785 :INFO :test_formSubmission :name isjay
+2024-01-04 14:43:01,839 :INFO :test_formSubmission :email isjay@yopmail.com
+2024-01-04 14:43:01,853 :INFO :test_formSubmission :password isjay@123
+2024-01-04 14:43:01,861 :INFO :test_formSubmission :click on checkbox
+2024-01-04 14:43:02,075 :INFO :test_formSubmission :gender isMale
+2024-01-04 14:43:02,101 :INFO :test_formSubmission :Click on submit button
+2024-01-04 14:43:02,351 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 14:43:05,944 :INFO :test_formSubmission :name ismamta
+2024-01-04 14:43:05,944 :INFO :test_formSubmission :name ismamta
+2024-01-04 14:43:05,959 :INFO :test_formSubmission :email ismamta@yopmail.com
+2024-01-04 14:43:05,959 :INFO :test_formSubmission :email ismamta@yopmail.com
+2024-01-04 14:43:05,973 :INFO :test_formSubmission :password ismamta@123
+2024-01-04 14:43:05,973 :INFO :test_formSubmission :password ismamta@123
+2024-01-04 14:43:05,980 :INFO :test_formSubmission :click on checkbox
+2024-01-04 14:43:05,980 :INFO :test_formSubmission :click on checkbox
+2024-01-04 14:43:06,192 :INFO :test_formSubmission :gender isFemale
+2024-01-04 14:43:06,192 :INFO :test_formSubmission :gender isFemale
+2024-01-04 14:43:06,428 :INFO :test_formSubmission :Click on submit button
+2024-01-04 14:43:06,428 :INFO :test_formSubmission :Click on submit button
+2024-01-04 14:43:06,649 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 14:43:06,649 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 14:44:25,930 :INFO :test_e2e :getting all the card titles
+2024-01-04 14:44:31,031 :INFO :test_e2e :iphone X
+2024-01-04 14:44:31,035 :INFO :test_e2e :Samsung Note 8
+2024-01-04 14:44:31,038 :INFO :test_e2e :Nokia Edge
+2024-01-04 14:44:31,040 :INFO :test_e2e :Blackberry
+2024-01-04 14:44:31,780 :INFO :test_e2e :Entering country name as India
+2024-01-04 14:44:37,489 :INFO :test_e2e :Text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-01-04 14:46:08,389 :INFO :test_e2e :getting all the card titles
+2024-01-04 14:46:13,426 :INFO :test_e2e :iphone X
+2024-01-04 14:46:13,429 :INFO :test_e2e :Samsung Note 8
+2024-01-04 14:46:13,432 :INFO :test_e2e :Nokia Edge
+2024-01-04 14:46:13,434 :INFO :test_e2e :Blackberry
+2024-01-04 14:46:14,094 :INFO :test_e2e :Entering country name as India
+2024-01-04 14:46:19,855 :INFO :test_e2e :Text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-01-04 14:48:14,843 :INFO :test_e2e :getting all the card titles
+2024-01-04 14:48:19,987 :INFO :test_e2e :iphone X
+2024-01-04 14:48:19,991 :INFO :test_e2e :Samsung Note 8
+2024-01-04 14:48:19,995 :INFO :test_e2e :Nokia Edge
+2024-01-04 14:48:19,999 :INFO :test_e2e :Blackberry
+2024-01-04 14:48:20,676 :INFO :test_e2e :Entering country name as India
+2024-01-04 14:48:26,402 :INFO :test_e2e :Text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-01-04 14:48:37,749 :INFO :test_formSubmission :name isjay
+2024-01-04 14:48:37,805 :INFO :test_formSubmission :email isjay@yopmail.com
+2024-01-04 14:48:37,819 :INFO :test_formSubmission :password isjay@123
+2024-01-04 14:48:37,826 :INFO :test_formSubmission :click on checkbox
+2024-01-04 14:48:38,045 :INFO :test_formSubmission :gender isMale
+2024-01-04 14:48:38,054 :INFO :test_formSubmission :Click on submit button
+2024-01-04 14:48:38,340 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 14:48:39,883 :INFO :test_formSubmission :name ismamta
+2024-01-04 14:48:39,883 :INFO :test_formSubmission :name ismamta
+2024-01-04 14:48:39,898 :INFO :test_formSubmission :email ismamta@yopmail.com
+2024-01-04 14:48:39,898 :INFO :test_formSubmission :email ismamta@yopmail.com
+2024-01-04 14:48:39,911 :INFO :test_formSubmission :password ismamta@123
+2024-01-04 14:48:39,911 :INFO :test_formSubmission :password ismamta@123
+2024-01-04 14:48:39,919 :INFO :test_formSubmission :click on checkbox
+2024-01-04 14:48:39,919 :INFO :test_formSubmission :click on checkbox
+2024-01-04 14:48:40,151 :INFO :test_formSubmission :gender isFemale
+2024-01-04 14:48:40,151 :INFO :test_formSubmission :gender isFemale
+2024-01-04 14:48:40,373 :INFO :test_formSubmission :Click on submit button
+2024-01-04 14:48:40,373 :INFO :test_formSubmission :Click on submit button
+2024-01-04 14:48:40,623 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 14:48:40,623 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 14:56:48,153 :INFO :test_e2e :getting all the card titles
+2024-01-04 14:56:53,170 :INFO :test_e2e :iphone X
+2024-01-04 14:56:53,174 :INFO :test_e2e :Samsung Note 8
+2024-01-04 14:56:53,177 :INFO :test_e2e :Nokia Edge
+2024-01-04 14:56:53,179 :INFO :test_e2e :Blackberry
+2024-01-04 14:56:53,854 :INFO :test_e2e :Entering country name as India
+2024-01-04 14:56:59,572 :INFO :test_e2e :Text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-01-04 14:57:19,850 :INFO :test_e2e :getting all the card titles
+2024-01-04 14:57:24,869 :INFO :test_e2e :iphone X
+2024-01-04 14:57:24,872 :INFO :test_e2e :Samsung Note 8
+2024-01-04 14:57:24,875 :INFO :test_e2e :Nokia Edge
+2024-01-04 14:57:24,878 :INFO :test_e2e :Blackberry
+2024-01-04 14:57:25,615 :INFO :test_e2e :Entering country name as India
+2024-01-04 14:57:31,337 :INFO :test_e2e :Text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-01-04 14:57:43,737 :INFO :test_formSubmission :name isjay
+2024-01-04 14:57:43,793 :INFO :test_formSubmission :email isjay@yopmail.com
+2024-01-04 14:57:43,809 :INFO :test_formSubmission :password isjay@123
+2024-01-04 14:57:43,818 :INFO :test_formSubmission :click on checkbox
+2024-01-04 14:57:44,042 :INFO :test_formSubmission :gender isMale
+2024-01-04 14:57:44,050 :INFO :test_formSubmission :Click on submit button
+2024-01-04 14:57:44,290 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 14:57:45,346 :INFO :test_formSubmission :name ismamta
+2024-01-04 14:57:45,346 :INFO :test_formSubmission :name ismamta
+2024-01-04 14:57:45,360 :INFO :test_formSubmission :email ismamta@yopmail.com
+2024-01-04 14:57:45,360 :INFO :test_formSubmission :email ismamta@yopmail.com
+2024-01-04 14:57:45,374 :INFO :test_formSubmission :password ismamta@123
+2024-01-04 14:57:45,374 :INFO :test_formSubmission :password ismamta@123
+2024-01-04 14:57:45,385 :INFO :test_formSubmission :click on checkbox
+2024-01-04 14:57:45,385 :INFO :test_formSubmission :click on checkbox
+2024-01-04 14:57:45,607 :INFO :test_formSubmission :gender isFemale
+2024-01-04 14:57:45,607 :INFO :test_formSubmission :gender isFemale
+2024-01-04 14:57:45,838 :INFO :test_formSubmission :Click on submit button
+2024-01-04 14:57:45,838 :INFO :test_formSubmission :Click on submit button
+2024-01-04 14:57:46,071 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 14:57:46,071 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 14:59:15,367 :INFO :test_e2e :getting all the card titles
+2024-01-04 14:59:20,381 :INFO :test_e2e :iphone X
+2024-01-04 14:59:20,384 :INFO :test_e2e :Samsung Note 8
+2024-01-04 14:59:20,388 :INFO :test_e2e :Nokia Edge
+2024-01-04 14:59:20,391 :INFO :test_e2e :Blackberry
+2024-01-04 14:59:21,124 :INFO :test_e2e :Entering country name as India
+2024-01-04 14:59:26,806 :INFO :test_e2e :Text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-01-04 15:00:08,038 :INFO :test_e2e :getting all the card titles
+2024-01-04 15:00:13,045 :INFO :test_e2e :iphone X
+2024-01-04 15:00:13,048 :INFO :test_e2e :Samsung Note 8
+2024-01-04 15:00:13,051 :INFO :test_e2e :Nokia Edge
+2024-01-04 15:00:13,053 :INFO :test_e2e :Blackberry
+2024-01-04 15:00:13,753 :INFO :test_e2e :Entering country name as India
+2024-01-04 15:00:19,460 :INFO :test_e2e :Text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-01-04 15:00:35,022 :INFO :test_formSubmission :name isjay
+2024-01-04 15:00:35,075 :INFO :test_formSubmission :email isjay@yopmail.com
+2024-01-04 15:00:35,088 :INFO :test_formSubmission :password isjay@123
+2024-01-04 15:00:35,100 :INFO :test_formSubmission :click on checkbox
+2024-01-04 15:00:35,314 :INFO :test_formSubmission :gender isMale
+2024-01-04 15:00:35,320 :INFO :test_formSubmission :Click on submit button
+2024-01-04 15:00:35,566 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 15:00:36,783 :INFO :test_formSubmission :name ismamta
+2024-01-04 15:00:36,783 :INFO :test_formSubmission :name ismamta
+2024-01-04 15:00:36,799 :INFO :test_formSubmission :email ismamta@yopmail.com
+2024-01-04 15:00:36,799 :INFO :test_formSubmission :email ismamta@yopmail.com
+2024-01-04 15:00:36,812 :INFO :test_formSubmission :password ismamta@123
+2024-01-04 15:00:36,812 :INFO :test_formSubmission :password ismamta@123
+2024-01-04 15:00:36,822 :INFO :test_formSubmission :click on checkbox
+2024-01-04 15:00:36,822 :INFO :test_formSubmission :click on checkbox
+2024-01-04 15:00:37,031 :INFO :test_formSubmission :gender isFemale
+2024-01-04 15:00:37,031 :INFO :test_formSubmission :gender isFemale
+2024-01-04 15:00:37,282 :INFO :test_formSubmission :Click on submit button
+2024-01-04 15:00:37,282 :INFO :test_formSubmission :Click on submit button
+2024-01-04 15:00:37,526 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 15:00:37,526 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 15:01:46,751 :INFO :test_e2e :getting all the card titles
+2024-01-04 15:01:51,760 :INFO :test_e2e :iphone X
+2024-01-04 15:01:51,764 :INFO :test_e2e :Samsung Note 8
+2024-01-04 15:01:51,767 :INFO :test_e2e :Nokia Edge
+2024-01-04 15:01:51,770 :INFO :test_e2e :Blackberry
+2024-01-04 15:01:52,481 :INFO :test_e2e :Entering country name as India
+2024-01-04 15:01:58,199 :INFO :test_e2e :Text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-01-04 15:02:11,252 :INFO :test_formSubmission :name isjay
+2024-01-04 15:02:11,303 :INFO :test_formSubmission :email isjay@yopmail.com
+2024-01-04 15:02:11,319 :INFO :test_formSubmission :password isjay@123
+2024-01-04 15:02:11,326 :INFO :test_formSubmission :click on checkbox
+2024-01-04 15:02:11,538 :INFO :test_formSubmission :gender isMale
+2024-01-04 15:02:11,545 :INFO :test_formSubmission :Click on submit button
+2024-01-04 15:02:11,806 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 15:02:13,483 :INFO :test_formSubmission :name ismamta
+2024-01-04 15:02:13,483 :INFO :test_formSubmission :name ismamta
+2024-01-04 15:02:13,499 :INFO :test_formSubmission :email ismamta@yopmail.com
+2024-01-04 15:02:13,499 :INFO :test_formSubmission :email ismamta@yopmail.com
+2024-01-04 15:02:13,515 :INFO :test_formSubmission :password ismamta@123
+2024-01-04 15:02:13,515 :INFO :test_formSubmission :password ismamta@123
+2024-01-04 15:02:13,525 :INFO :test_formSubmission :click on checkbox
+2024-01-04 15:02:13,525 :INFO :test_formSubmission :click on checkbox
+2024-01-04 15:02:13,744 :INFO :test_formSubmission :gender isFemale
+2024-01-04 15:02:13,744 :INFO :test_formSubmission :gender isFemale
+2024-01-04 15:02:13,977 :INFO :test_formSubmission :Click on submit button
+2024-01-04 15:02:13,977 :INFO :test_formSubmission :Click on submit button
+2024-01-04 15:02:14,200 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 15:02:14,200 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 15:04:18,167 :INFO :test_e2e :getting all the card titles
+2024-01-04 15:04:23,183 :INFO :test_e2e :iphone X
+2024-01-04 15:04:23,187 :INFO :test_e2e :Samsung Note 8
+2024-01-04 15:04:23,189 :INFO :test_e2e :Nokia Edge
+2024-01-04 15:04:23,192 :INFO :test_e2e :Blackberry
+2024-01-04 15:04:23,859 :INFO :test_e2e :Entering country name as India
+2024-01-04 15:04:29,616 :INFO :test_e2e :Text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-01-04 15:04:41,922 :INFO :test_formSubmission :name isjay
+2024-01-04 15:04:41,977 :INFO :test_formSubmission :email isjay@yopmail.com
+2024-01-04 15:04:41,991 :INFO :test_formSubmission :password isjay@123
+2024-01-04 15:04:41,998 :INFO :test_formSubmission :click on checkbox
+2024-01-04 15:04:42,220 :INFO :test_formSubmission :gender isMale
+2024-01-04 15:04:42,232 :INFO :test_formSubmission :Click on submit button
+2024-01-04 15:04:42,467 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 15:04:44,164 :INFO :test_formSubmission :name ismamta
+2024-01-04 15:04:44,164 :INFO :test_formSubmission :name ismamta
+2024-01-04 15:04:44,178 :INFO :test_formSubmission :email ismamta@yopmail.com
+2024-01-04 15:04:44,178 :INFO :test_formSubmission :email ismamta@yopmail.com
+2024-01-04 15:04:44,192 :INFO :test_formSubmission :password ismamta@123
+2024-01-04 15:04:44,192 :INFO :test_formSubmission :password ismamta@123
+2024-01-04 15:04:44,199 :INFO :test_formSubmission :click on checkbox
+2024-01-04 15:04:44,199 :INFO :test_formSubmission :click on checkbox
+2024-01-04 15:04:44,438 :INFO :test_formSubmission :gender isFemale
+2024-01-04 15:04:44,438 :INFO :test_formSubmission :gender isFemale
+2024-01-04 15:04:44,699 :INFO :test_formSubmission :Click on submit button
+2024-01-04 15:04:44,699 :INFO :test_formSubmission :Click on submit button
+2024-01-04 15:04:44,935 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
+2024-01-04 15:04:44,935 :INFO :test_formSubmission :Success Message is:×
+Success! The Form has been submitted successfully!.
